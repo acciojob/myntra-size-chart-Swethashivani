@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+thead{
+	background-colour:red;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+    border: 1px solid black;
+    color: #651d1d;
+	
+    background-color: antiquewhite;
+  }
+
+  
